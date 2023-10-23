@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Finally learning all about Git
 <!--
 **sep23/sep23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
